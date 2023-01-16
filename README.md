@@ -36,7 +36,7 @@
 - 👀 I’m interested in Laravel, PHP, Node JS, MongoDB, React JS any new kind of SDKs.
 - 🌱 I’m currently learning Mern stack and Block chain such as Etherium to enlarge my skill stack.
 - 💞️ I’m looking to collaborate on high valuation jobs, not only for money, but also for honor and dignity.
-- 📫 How to reach me... simple communication anytime to vadim.progdev@gmail.com
+- 📫 How to reach me... simple communication anytime to live:.cid.f2be4f4ecaa7cf73 (my skype)
 
 <!---
 Big-Rocks/Big-Rocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
